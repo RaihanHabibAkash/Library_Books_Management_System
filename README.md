@@ -342,15 +342,4 @@ CLOUDINARY_API_SECRET=your-api-secret
 | **Debug** | django-debug-toolbar |
 | **Database** | SQLite (dev) |
 
-##  License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 👨‍💻 Author
-
-**Anayet Hasan Niloy**
-Software Engineer | CSE Student at ISTT | Competitive Programmer
-
 > Built with  using Django REST Framework"# -Library_Books_Management_System" 
